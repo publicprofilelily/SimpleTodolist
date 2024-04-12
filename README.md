@@ -10,6 +10,10 @@ I liked the colors and cursor solution
 
 Should add a UML since I have many classes
 
+Add thank you for using the applications after saving 
+
+Maybe some animation 
+
 # SimpleTodolist
 
 ## Overview
