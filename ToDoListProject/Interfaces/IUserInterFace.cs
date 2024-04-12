@@ -16,7 +16,5 @@ namespace TodoList
         string CollectTaskInfo();
         void DisplayWelcomeMessage();
         void PrintEmptyLine();
-       
-
     }
 }
