@@ -1,5 +1,5 @@
-# All requirements is reached but these are the
-# comments after code-review and comparison
+## All requirements is reached but these are the
+## comments after code-review and comparison
 
 It is cleaner to have a new menu for sorting by project or due date
 
