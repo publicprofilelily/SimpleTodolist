@@ -19,13 +19,13 @@ This TodoList application helps users manage their tasks effectively. It is buil
 
 ## Project file hierarchy
 
-#Namespace and Directory Organization
+## Namespace and Directory Organization
  
-# The UI namespace contains everything related to user interaction, while the root TodoList namespace could contain the core logic and data models.
+The UI namespace contains everything related to user interaction, while the root TodoList namespace could contain the core logic and data models.
 
 # Class Responsibilities
 MainMenu and EditMenu Classes: These classes are part of the user interface but they also manage user inputs and transitions between different states of the application. They control the flow of the application, deciding what happens next based on user input.
 
-# ITaskManager Interface: Abstracts the functionalities related to task management, like adding, editing, or deleting tasks. 
+## ITaskManager Interface: Abstracts the functionalities related to task management, like adding, editing, or deleting tasks. 
 
-# IUserInterface Interface: Similarly, this interface abstracts the user interface interactions away from the actual logic of handling tasks. 
+## IUserInterface Interface: Abstracts the user interface interactions away from the actual logic of handling tasks. 
