@@ -17,6 +17,8 @@ Maybe some animation
 
 Save file in absolute path or folder
 
+Should command be in a core folder?
+
 # SimpleTodolist
 
 ## Overview
