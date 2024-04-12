@@ -14,6 +14,8 @@ Add thank you for using the applications after saving
 
 Maybe some animation 
 
+Save file in absolute path or folder
+
 # SimpleTodolist
 
 ## Overview
