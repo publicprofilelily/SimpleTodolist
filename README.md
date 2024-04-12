@@ -21,6 +21,8 @@ Should command be in a core folder?
 
 Headers in text
 
+XML, json file? 
+
 # SimpleTodolist
 
 ## Overview
