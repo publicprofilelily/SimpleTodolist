@@ -1,3 +1,15 @@
+# Comments after code-review comparison
+
+It is cleaner to have a new menu for sorting by project or due date
+
+Would be cool to be able to write 2023-03-03 and 20220303
+
+The result should have headers and be in columns as well as showing index
+
+I liked the colors and cursor solution
+
+Should add a UML since I have many classes
+
 # SimpleTodolist
 
 ## Overview
