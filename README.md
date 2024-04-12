@@ -19,6 +19,8 @@ Save file in absolute path or folder
 
 Should command be in a core folder?
 
+Headers in text
+
 # SimpleTodolist
 
 ## Overview
