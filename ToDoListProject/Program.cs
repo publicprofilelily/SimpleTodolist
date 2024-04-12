@@ -19,7 +19,7 @@ namespace TodoList
             
             // Starts the menu
 
-            mainMenu.Display();  // Start the menu interaction
+            mainMenu.Display(); 
         }
     }
 }
