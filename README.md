@@ -23,6 +23,8 @@ Headers in text
 
 XML, json, csv file? 
 
+Database. What should it look like?
+
 # SimpleTodolist
 
 ## Overview
